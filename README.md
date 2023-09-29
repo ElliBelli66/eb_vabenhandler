@@ -4,7 +4,7 @@ A script I made some time ago, and which I have now chosen to publish. The scrip
 
 **Installation guide:**
 
-Drag and drop the folder into your resource folder and write 'ensure eb_weapondealer' in your server.cfg file
+Drag and drop the folder into your resource folder and write 'ensure eb_vabenhandler' in your server.cfg file
 
 **Feedback:**
 
